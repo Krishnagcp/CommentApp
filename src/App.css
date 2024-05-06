@@ -1,0 +1,13 @@
+.App{
+ margin: 100px auto;
+ padding: 20px; 
+}
+.comment-input input{
+  height: 40px;
+  width: 75%;
+}
+.comment-input button{
+ width: 100px; 
+ margin-left: 20px;
+ cursor: pointer;
+}
