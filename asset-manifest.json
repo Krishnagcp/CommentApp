@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Krishnagcp/CommentApp.git/static/css/main.0ec79173.css",
+    "main.js": "/Krishnagcp/CommentApp.git/static/js/main.eed28c39.js",
+    "static/js/453.7a4dd59c.chunk.js": "/Krishnagcp/CommentApp.git/static/js/453.7a4dd59c.chunk.js",
+    "index.html": "/Krishnagcp/CommentApp.git/index.html",
+    "main.0ec79173.css.map": "/Krishnagcp/CommentApp.git/static/css/main.0ec79173.css.map",
+    "main.eed28c39.js.map": "/Krishnagcp/CommentApp.git/static/js/main.eed28c39.js.map",
+    "453.7a4dd59c.chunk.js.map": "/Krishnagcp/CommentApp.git/static/js/453.7a4dd59c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec79173.css",
+    "static/js/main.eed28c39.js"
+  ]
+}
